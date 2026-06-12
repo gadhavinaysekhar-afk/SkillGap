@@ -1,0 +1,6 @@
+{
+  "name": "SkillGap",
+  "description": "An AI-powered professional growth platform that scans skills, identifies skill gaps, and provides an interactive learning roadmap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
